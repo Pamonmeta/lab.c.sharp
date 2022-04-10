@@ -1,0 +1,14 @@
+E:\universitet\4 sem\Programowanie obiektowe lab\Zestaw 5\Zestaw 5\bin\Debug\Zestaw 5.exe.config
+E:\universitet\4 sem\Programowanie obiektowe lab\Zestaw 5\Zestaw 5\bin\Debug\Zestaw 5.exe
+E:\universitet\4 sem\Programowanie obiektowe lab\Zestaw 5\Zestaw 5\bin\Debug\Zestaw 5.pdb
+E:\universitet\4 sem\Programowanie obiektowe lab\Zestaw 5\Zestaw 5\obj\Debug\Zestaw 5.csprojAssemblyReference.cache
+E:\universitet\4 sem\Programowanie obiektowe lab\Zestaw 5\Zestaw 5\obj\Debug\Zestaw 5.csproj.CoreCompileInputs.cache
+E:\universitet\4 sem\Programowanie obiektowe lab\Zestaw 5\Zestaw 5\obj\Debug\Zestaw 5.exe
+E:\universitet\4 sem\Programowanie obiektowe lab\Zestaw 5\Zestaw 5\obj\Debug\Zestaw 5.pdb
+C:\Users\sorvi\MainFolder\ProgramOBJ\Zestaw 5\Zestaw 5\bin\Debug\Zestaw 5.exe.config
+C:\Users\sorvi\MainFolder\ProgramOBJ\Zestaw 5\Zestaw 5\bin\Debug\Zestaw 5.exe
+C:\Users\sorvi\MainFolder\ProgramOBJ\Zestaw 5\Zestaw 5\bin\Debug\Zestaw 5.pdb
+C:\Users\sorvi\MainFolder\ProgramOBJ\Zestaw 5\Zestaw 5\obj\Debug\Zestaw 5.csprojAssemblyReference.cache
+C:\Users\sorvi\MainFolder\ProgramOBJ\Zestaw 5\Zestaw 5\obj\Debug\Zestaw 5.csproj.CoreCompileInputs.cache
+C:\Users\sorvi\MainFolder\ProgramOBJ\Zestaw 5\Zestaw 5\obj\Debug\Zestaw 5.exe
+C:\Users\sorvi\MainFolder\ProgramOBJ\Zestaw 5\Zestaw 5\obj\Debug\Zestaw 5.pdb

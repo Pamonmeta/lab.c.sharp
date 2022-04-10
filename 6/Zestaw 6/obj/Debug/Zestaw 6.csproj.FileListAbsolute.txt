@@ -1,0 +1,21 @@
+C:\Users\admin\source\repos\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.exe.config
+C:\Users\admin\source\repos\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.exe
+C:\Users\admin\source\repos\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.pdb
+C:\Users\admin\source\repos\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.exe
+C:\Users\admin\source\repos\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.pdb
+C:\Users\sorvi\Downloads\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.exe.config
+C:\Users\sorvi\Downloads\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.exe
+C:\Users\sorvi\Downloads\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.pdb
+C:\Users\sorvi\Downloads\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.csprojAssemblyReference.cache
+C:\Users\sorvi\Downloads\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.csproj.CoreCompileInputs.cache
+C:\Users\sorvi\Downloads\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.exe
+C:\Users\sorvi\Downloads\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.pdb
+d:\Users\Yuriy\Desktop\PO lab\lab 6\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.exe.config
+d:\Users\Yuriy\Desktop\PO lab\lab 6\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.exe
+d:\Users\Yuriy\Desktop\PO lab\lab 6\Zestaw 6\Zestaw 6\bin\Debug\Zestaw 6.pdb
+d:\Users\Yuriy\Desktop\PO lab\lab 6\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.csprojAssemblyReference.cache
+d:\Users\Yuriy\Desktop\PO lab\lab 6\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.csproj.CoreCompileInputs.cache
+d:\Users\Yuriy\Desktop\PO lab\lab 6\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.exe
+d:\Users\Yuriy\Desktop\PO lab\lab 6\Zestaw 6\Zestaw 6\obj\Debug\Zestaw 6.pdb

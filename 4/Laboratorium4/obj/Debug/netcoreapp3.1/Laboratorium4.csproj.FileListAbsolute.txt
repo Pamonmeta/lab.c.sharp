@@ -1,0 +1,39 @@
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.exe
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.deps.json
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.runtimeconfig.json
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.runtimeconfig.dev.json
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.dll
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.pdb
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.csprojAssemblyReference.cache
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.AssemblyInfo.cs
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.dll
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.pdb
+C:\Users\comp\source\repos\CSharp\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.genruntimeconfig.cache
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.exe
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.deps.json
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.runtimeconfig.json
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.runtimeconfig.dev.json
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.dll
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.pdb
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.csprojAssemblyReference.cache
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.AssemblyInfoInputs.cache
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.AssemblyInfo.cs
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.csproj.CoreCompileInputs.cache
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.dll
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.pdb
+C:\Users\sorvi\Downloads\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.genruntimeconfig.cache
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.exe
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.deps.json
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.runtimeconfig.json
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.runtimeconfig.dev.json
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.dll
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\bin\Debug\netcoreapp3.1\Laboratorium4.pdb
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.csprojAssemblyReference.cache
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.AssemblyInfoInputs.cache
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.AssemblyInfo.cs
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.csproj.CoreCompileInputs.cache
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.dll
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.pdb
+d:\Users\Yuriy\Desktop\PO lab\lab  4\Laboratorium4\Laboratorium4\obj\Debug\netcoreapp3.1\Laboratorium4.genruntimeconfig.cache
